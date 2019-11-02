@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author haroldo
+ *
+ */
+module MediaJava {
+}
